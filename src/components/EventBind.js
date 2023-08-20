@@ -11,6 +11,8 @@ class EventBind extends Component {
        //this.clickHandler=this.clickHandler.bind(this)  //this is used  for 3rd method
     }
 
+    // for 1,2,3 th method
+
     // clickHandler(){
 
     //     this.setState({
