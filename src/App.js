@@ -23,10 +23,9 @@ function App() {
   return (
     <div className="App">
 
+
+
     <LifecycleA/>
-
-
-
 
       {/* <Form/> */}
 
